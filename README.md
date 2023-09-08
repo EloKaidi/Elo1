@@ -1,1 +1,2 @@
 # Elo
+prywatnosc i personalizacja
